@@ -2,12 +2,12 @@
 A hub for keeping track of my favorite Interactive Fiction works, plus some original work too.
 
 ## What is IF and Handy Resources
-* Interactive Fiction ([IF](https://en.wikipedia.org/wiki/Interactive_fiction)) describes a genre of books and text-based games; think choose-your-own-adventure stories with increased player input
+* Interactive Fiction ([IF](https://en.wikipedia.org/wiki/Interactive_fiction)) is a genre of books and text-based games; think choose-your-own-adventure stories with increased player input
 * [IFDB](https://ifdb.tads.org/): where IF authors post their games free to play
 * [Gargoyle](http://ccxvii.net/gargoyle/): software that runs IF games files that do not have an in-brower play option
 * [Borogove](https://borogove.app/): in-brower Inform editor
 
-## My Favorite IFs!
+## Favorite IFs!
 Include link and short description
 * [An Act of Murder](https://ifdb.org/viewgame?id=x43lndv5htzy38w0) by Christopher Huang: a vivid whodunit story with nifty randomized elements
 * [Galatea](https://ifdb.org/viewgame?id=urxrv27t7qtu52lb) by Emily Short: an introspective modern take on the Greek myth 
@@ -16,6 +16,9 @@ Include link and short description
 * [A Beauty Cold and Austere](https://ifdb.org/viewgame?id=y9y7jozi0l76bb82) by Michael Spivey: a flavorful and informative story that teaches core math concepts
 
 ## Original Work
+IFs
 * Troposphere (short game) [link to wiki page explaining how to play]
-* Clean Up Crew (long game)
+* Clean Up Crew (long game) [link to wiki page explaining ...]
+
+Other
 * Essay on AAOM's storytelling (add it to snowshinobi.github.io and link to it directly)

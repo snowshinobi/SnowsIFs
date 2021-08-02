@@ -21,4 +21,4 @@ IFs
 * Clean Up Crew (long game) [link to wiki page explaining ...]
 
 Other
-* Essay on AAOM's storytelling (add it to snowshinobi.github.io and link to it directly)
+* [*An Act of Murder*: The Ultimate Detective Anti-Fiction](linkity link): an essay exploring the "paradoxically *authentic* detective *fantasy*" in which AAOM situates the player

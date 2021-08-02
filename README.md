@@ -2,7 +2,9 @@
 A hub for keeping track of my favorite Interactive Fiction works, plus some original work too.
 
 ## What is IF and Handy Resources
-* IF definition and IFDB https://ifdb.tads.org/ where IF authors post their games free to play
+* Interactive Fiction (IF) describes a genre of books and text-based games. Think choose-your-own-adventure stories with increased player input.
+* IFDB https://ifdb.tads.org/ : where IF authors post their games free to play
+* [I'm an inline-style link](https://www.google.com)
 * Software to run and write big game files
 * Brower IF editor: https://borogove.app/
 

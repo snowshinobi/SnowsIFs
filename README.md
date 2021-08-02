@@ -2,19 +2,18 @@
 A hub for keeping track of my favorite Interactive Fiction works, plus some original work too.
 
 ## What is IF and Handy Resources
-* Interactive Fiction (IF) describes a genre of books and text-based games. Think choose-your-own-adventure stories with increased player input.
-* [IFDB](https://ifdb.tads.org): where IF authors post their games free to play
-* [I'm an inline-style link](https://www.google.com)
-* Software to run and write big game files
-* Brower IF editor: https://borogove.app/
+* Interactive Fiction (IF) describes a genre of books and text-based games; think choose-your-own-adventure stories with increased player input
+* [IFDB](https://ifdb.tads.org/): where IF authors post their games free to play
+* [Gargoyle](http://ccxvii.net/gargoyle/): software that runs IF games files that do not have an in-brower play option
+* [Borogove](https://borogove.app/): in-brower Inform editor
 
 ## My Favorite IFs!
 Include link and short description
-* AAOM by Christopher Huang https://ifdb.org/viewgame?id=x43lndv5htzy38w0
-* Galatea by Emily Short https://ifdb.org/viewgame?id=urxrv27t7qtu52lb
-* Shade by Andrew Plotkin https://ifdb.org/viewgame?id=hsfc7fnl40k4a30q
-* Limerick Heist by Pace Smith (Twine game) https://pacesmith.itch.io/limerick-heist
-* A Beauty Cold and Austere by Michael Spivey https://ifdb.org/viewgame?id=y9y7jozi0l76bb82
+* [An Act of Murder](https://ifdb.org/viewgame?id=x43lndv5htzy38w0) by Christopher Huang: a vivid whodunit story with nifty randomized elements
+* [Galatea](https://ifdb.org/viewgame?id=urxrv27t7qtu52lb) by Emily Short: an introspective modern take on the Greek myth 
+* [Shade](https://ifdb.org/viewgame?id=hsfc7fnl40k4a30q) by Andrew Plotkin: surreal and existential; every detail rewards a second look
+* [Limerick Heist](https://pacesmith.itch.io/limerick-heist) by Pace Smith: a heist game made in Twine; clickable options and clever rhymes
+* [A Beauty Cold and Austere](https://ifdb.org/viewgame?id=y9y7jozi0l76bb82) by Michael Spivey: a flavorful and informative story that teaches core math concepts
 
 ## Original Work
 * Troposphere (short game) [link to wiki page explaining how to play]

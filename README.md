@@ -13,7 +13,7 @@ Include link and short description
 * [Galatea](https://ifdb.org/viewgame?id=urxrv27t7qtu52lb) by Emily Short: an introspective modern take on the Greek myth 
 * [Shade](https://ifdb.org/viewgame?id=hsfc7fnl40k4a30q) by Andrew Plotkin: surreal and existential; every detail rewards a second look
 * [Limerick Heist](https://pacesmith.itch.io/limerick-heist) by Pace Smith: a heist game made in Twine; clickable options and clever rhymes
-* [A Beauty Cold and Austere](https://ifdb.org/viewgame?id=y9y7jozi0l76bb82) by Michael Spivey: a flavorful and informative story that teaches core math concepts
+* [A Beauty Cold and Austere](https://ifdb.org/viewgame?id=y9y7jozi0l76bb82) by Mike Spivey: a flavorful and informative story that teaches core math concepts
 
 ## Original Work
 IFs

@@ -4,7 +4,7 @@ A hub for keeping track of my favorite Interactive Fiction works, plus some orig
 ## What is IF and Handy Resources
 * IF definition and IFDB https://ifdb.tads.org/ where IF authors post their games free to play
 * Software to run and write big game files
-* Brower IF editor
+* Brower IF editor: https://borogove.app/
 
 ## My Favorite IFs!
 Include link and short description
@@ -15,6 +15,6 @@ Include link and short description
 * A Beauty Cold and Austere by Michael Spivey https://ifdb.org/viewgame?id=y9y7jozi0l76bb82
 
 ## Original Work
-* Troposphere (short game)
+* Troposphere (short game) [link to wiki page explaining how to play]
 * Clean Up Crew (long game)
 * Essay on AAOM's storytelling (add it to snowshinobi.github.io and link to it directly)

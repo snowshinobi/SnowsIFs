@@ -8,7 +8,6 @@ A hub for keeping track of my favorite Interactive Fiction works, plus some orig
 * [Borogove](https://borogove.app/): in-brower Inform editor
 
 ## Favorite IFs!
-Include link and short description
 * [An Act of Murder](https://ifdb.org/viewgame?id=x43lndv5htzy38w0) by Christopher Huang: a vivid whodunit story with nifty randomized elements
 * [Galatea](https://ifdb.org/viewgame?id=urxrv27t7qtu52lb) by Emily Short: an introspective modern take on the Greek myth 
 * [Shade](https://ifdb.org/viewgame?id=hsfc7fnl40k4a30q) by Andrew Plotkin: surreal and existential; every detail rewards a second look

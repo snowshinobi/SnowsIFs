@@ -17,8 +17,8 @@ Include link and short description
 
 ## Original Work
 IFs
-* Troposphere (short game) [link to wiki page explaining how to play]
-* Clean Up Crew (long game) [link to wiki page ...]
+* Troposphere (short game) [Link TBA]
+* Clean Up Crew (long game) [Link TBA]
 
 Other
 * [*An Act of Murder*: The Ultimate Detective Anti-Fiction](https://www.snowshinobi.com/DetectiveAntiFiction.html): an essay exploring the "paradoxically *authentic* detective *fantasy*" in which AAOM situates the player

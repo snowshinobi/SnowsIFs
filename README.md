@@ -1,5 +1,5 @@
 # IF_Zone
-A hub for keeping track of my favorite Interactive Fiction works, plus some original work too.
+A hub for keeping track of my favorite Interactive Fiction works—plus some original work too.
 
 ## What is IF and Handy Resources
 * Interactive Fiction ([IF](https://en.wikipedia.org/wiki/Interactive_fiction)) is a genre of books and text-based games; think choose-your-own-adventure stories with increased player input

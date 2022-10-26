@@ -1,4 +1,4 @@
-# IF_Zone
+# Snow's IFs
 A hub for keeping track of my favorite Interactive Fiction works—plus some original work too.
 
 ## What is IF and Handy Resources
